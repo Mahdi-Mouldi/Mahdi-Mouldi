@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hi, I'm Mahdi 👋
 
-<!--
-**Mahdi-Mouldi/Mahdi-Mouldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack & Microservices Developer  
+📍 Based in Ariana, Tunisia  
+🎓 Computer Science Student @ ISI Ariana  
+🚀 Passionate about Java, Spring Boot, Angular & DevOps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies I work with:
+- Java, Spring Boot, Quarkus
+- Microservices & REST APIs
+- Docker, Git, Linux
+- Angular, React, Vue.js
+- PostgreSQL, MySQL
+
+---
+
+### 📌 Current Project
+Working on: **Reddit Clone (Fullstack App)**  
+Tech: Spring Boot, Angular, JWT Authentication, PostgreSQL
+
+---
+
+### 📂 Featured Projects
+
+🔹 **Reddit Clone**
+Fullstack App with Authentication, Posts & Voting  
+➡️ https://github.com/Mahdi-Mouldi/reddit-clone
+
+🔹 **E-commerce Website**
+PHP + MySQL + JavaScript  
+➡️ https://github.com/Mahdi-Mouldi/E-Commerce-Project
+
+---
+
+### 📬 Contact Me
+📧 mahdi.mouldi.cs@gmail.tn  
+🔗 LinkedIn: linkedin.com/in/mahdi-mouldi-b3349a298  
